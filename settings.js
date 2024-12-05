@@ -23,18 +23,18 @@ global.imgreply = "https://files.catbox.moe/sri4cd.jpg"
 global.thumb = "https://files.catbox.moe/toymu7.jpg"
 //global.imgmenu = fs.readFileSync("./media/Menu.jpg")
 
-global.domainn = "-"
-global.apikeyy = "-"
-global.capikeyy = "-"
+global.domainn = "storedigital.web.id"
+global.apikeyy = "v5_unJTqruXV_x-5uj0dT5_Q4QAPThJbXzC2MmOQ"
+global.capikeyy = "2ce8a2f880534806e2f463e3eec68d31"
 
 //========== Setting Panell ==========//
 global.eggsnya = '15' // id eggs yang dipakai kalo id nya 5 biarin aja ini jangan di ubah
 global.location = '1' // id location
 global.limitawal = 5
 
-global.domain = '-' // Isi Domain Lu
-global.apikey = '-' // Isi Apikey Plta Lu
-global.capikey = '-' // Isi Apikey Pltc Lu
+global.domain = 'storedigital.web.id' // Isi Domain Lu
+global.apikey = 'v5_unJTqruXV_x-5uj0dT5_Q4QAPThJbXzC2MmOQ' // Isi Apikey Plta Lu
+global.capikey = '2ce8a2f880534806e2f463e3eec68d31' // Isi Apikey Pltc Lu
 
 //========= Setting Payment =========//
 global.dana = ""
